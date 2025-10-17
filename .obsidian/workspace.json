@@ -13,7 +13,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Game/Items/Items.base",
+                "file": "Game Planning/Items/Items.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Items/Items.base",
+                "file": "Game Planning/Items/Items.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game/Items/Items.base",
+                "file": "Game Planning/Items/Items.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game/Items/Items.base",
+                "file": "Game Planning/Items/Items.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,23 +181,23 @@
   },
   "active": "ff08bc18a42e1bc4",
   "lastOpenFiles": [
+    "Godot",
     "Game/Goals",
-    "Game/Items/Items.canvas",
-    "Game/Items/Items.base",
-    "Game/Locations/Map.canvas",
-    "Game/Items/List",
-    "Game/Items",
+    "Game Planning/Items/Items.canvas",
+    "Game Planning/Items/Items.base",
+    "Game Planning/Locations/Map.canvas",
+    "Game Planning/Items/List",
+    "Game Planning/Items",
     "README.md",
-    "Game/Locations",
-    "Game/Creatures/1/1.canvas",
-    "Game/Creatures/2/2.canvas",
-    "Game/Creatures/3/3.canvas",
-    "Game/Creatures/3/References",
-    "Game/Creatures/2/References",
-    "Game/Creatures/3/Images",
-    "Game/Creatures/2/Images",
-    "Game/Creatures/1/Images",
-    "Game/Creatures/1/References",
+    "Game Planning/Locations",
+    "Game Planning/Creatures/1/1.canvas",
+    "Game Planning/Creatures/2/2.canvas",
+    "Game Planning/Creatures/3/3.canvas",
+    "Game Planning/Creatures/3/References",
+    "Game Planning/Creatures/2/References",
+    "Game Planning/Creatures/3/Images",
+    "Game Planning/Creatures/2/Images",
+    "Game Planning/Creatures/1/Images",
     "Test2.md",
     "Welcome.md"
   ]
