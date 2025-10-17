@@ -11,17 +11,14 @@
             "id": "18f2e4060c2baf33",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game/Creatures/1/1.canvas",
-                "viewState": {
-                  "x": -42.22467504645465,
-                  "y": 7.9202258829525505,
-                  "zoom": -0.026666666666666554
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Creatures/1/1.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game/Creatures/1/1.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game/Creatures/1/1.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1"
+              "title": "Outline of README"
             }
           },
           {
@@ -183,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6bc57e00f666073",
+  "active": "18f2e4060c2baf33",
   "lastOpenFiles": [
-    "Game/Creatures/2/2.canvas",
     "Game/Creatures/1/1.canvas",
+    "Game/Creatures/2/2.canvas",
     "Game/Creatures/3/3.canvas",
     "Game/Creatures/3/References",
     "Game/Creatures/2/References",
