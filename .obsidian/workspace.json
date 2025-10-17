@@ -11,13 +11,14 @@
             "id": "18f2e4060c2baf33",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Game Planning/Items/Items.base",
-                "viewName": "Table"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Items"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Planning/Items/Items.base",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Items"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Planning/Items/Items.base",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Items"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Planning/Items/Items.base",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Items"
+              "title": "Outline of README"
             }
           },
           {
@@ -181,10 +182,12 @@
   },
   "active": "ff08bc18a42e1bc4",
   "lastOpenFiles": [
+    "Godot/New Text Document.gd",
+    "Godot/New Text Document.txt",
+    "Game Planning/Items/Items.base",
     "Godot",
     "Game/Goals",
     "Game Planning/Items/Items.canvas",
-    "Game Planning/Items/Items.base",
     "Game Planning/Locations/Map.canvas",
     "Game Planning/Items/List",
     "Game Planning/Items",
@@ -196,8 +199,6 @@
     "Game Planning/Creatures/3/References",
     "Game Planning/Creatures/2/References",
     "Game Planning/Creatures/3/Images",
-    "Game Planning/Creatures/2/Images",
-    "Game Planning/Creatures/1/Images",
     "Test2.md",
     "Welcome.md"
   ]
