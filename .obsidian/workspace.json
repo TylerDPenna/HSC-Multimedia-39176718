@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18f2e4060c2baf33",
+  "active": "ff08bc18a42e1bc4",
   "lastOpenFiles": [
+    "Game/Goals",
     "Game/Items/Items.canvas",
     "Game/Items/Items.base",
     "Game/Locations/Map.canvas",
