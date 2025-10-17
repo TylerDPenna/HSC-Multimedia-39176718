@@ -11,10 +11,17 @@
             "id": "18f2e4060c2baf33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Game/Creatures/1/1.canvas",
+                "viewState": {
+                  "x": -42.22467504645465,
+                  "y": 7.9202258829525505,
+                  "zoom": -0.026666666666666554
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game/Creatures/1/1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game/Creatures/1/1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1"
             }
           },
           {
@@ -136,12 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Game/Creatures/1/1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1"
             }
           },
           {
@@ -173,20 +183,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18f2e4060c2baf33",
+  "active": "b6bc57e00f666073",
   "lastOpenFiles": [
+    "Game/Creatures/2/2.canvas",
+    "Game/Creatures/1/1.canvas",
+    "Game/Creatures/3/3.canvas",
+    "Game/Creatures/3/References",
+    "Game/Creatures/2/References",
+    "Game/Creatures/3/Images",
+    "Game/Creatures/2/Images",
+    "Game/Creatures/1/Images",
+    "Game/Creatures/1/References",
+    "Game/Creatures/3",
+    "Game/Creatures/2",
+    "Game/Creatures/1",
+    "Game/Creatures",
     "README.md",
     "Test2.md",
-    "Untitled",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled 9.base",
-    "Untitled 8.base",
-    "Untitled 7.base",
-    "Untitled 6.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
     "Welcome.md"
   ]
 }
