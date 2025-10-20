@@ -11,14 +11,17 @@
             "id": "18f2e4060c2baf33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Game Planning/Items/Items.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Items"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Game Planning/Creatures/1/1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 1"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Game Planning/Creatures/1/1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 1"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Game Planning/Creatures/1/1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 1"
             }
           },
           {
@@ -182,6 +185,14 @@
   },
   "active": "ff08bc18a42e1bc4",
   "lastOpenFiles": [
+    "Game Planning/Items/List/Story Items",
+    "Game Planning/Items/List/Consumables",
+    "Game Planning/Items/List/Weapons",
+    "Game Planning/Items/Items.base",
+    "Game Planning/Items/Items.canvas",
+    "Game Planning/Creatures/1/1.canvas",
+    "Godot/multimedia-hsc---39176718/icon.svg",
+    "README.md",
     "Godot/multimedia-hsc---39176718/Scenes/Entities/Player/PlayerCharacter.tscn625589010.tmp",
     "Godot/multimedia-hsc---39176718/project.godot623081674.tmp",
     "Godot/multimedia-hsc---39176718/project.godot620395378.tmp",
@@ -189,15 +200,7 @@
     "Godot/multimedia-hsc---39176718/project.godot614866406.tmp",
     "Godot/multimedia-hsc---39176718/Assets/Models",
     "Godot/multimedia-hsc---39176718/Assets/Materials",
-    "Godot/multimedia-hsc---39176718/Assets/Textures",
-    "Godot/multimedia-hsc---39176718/Assets/Shaders",
-    "Godot/multimedia-hsc---39176718/Scenes/Entities/Player/PlayerCharacter.gd518963207.tmp",
-    "Godot/multimedia-hsc---39176718/Scenes/Entities/Player/PlayerCharacter.gd505947785.tmp",
-    "Godot/multimedia-hsc---39176718/icon.svg",
-    "Game Planning/Items/Items.canvas",
     "Game Planning/Locations/Map.canvas",
-    "README.md",
-    "Game Planning/Creatures/1/1.canvas",
     "Game Planning/Creatures/2/2.canvas",
     "Game Planning/Creatures/3/3.canvas",
     "Test2.md",
