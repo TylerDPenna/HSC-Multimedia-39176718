@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0064819a113688c4",
+        "id": "fced85d42c3ae42e",
         "type": "tabs",
         "children": [
           {
-            "id": "18f2e4060c2baf33",
+            "id": "e2d53300d3c8056c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Game Planning/Items/Items.canvas",
+                "file": "Game Planning/Creatures/1/1.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 279.1557756976078,
+                  "y": 40.246120438895076,
+                  "zoom": -0.16819102638912856
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Items"
+              "title": "1"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "ff08bc18a42e1bc4",
   "lastOpenFiles": [
+    "Game Planning/Creatures/1/References/A Quiet Place (2018) - Death Angel.png",
+    "Game Planning/Creatures/1/1.canvas",
+    "Game Planning/Creatures/1/References/Pasted image 20251021095653.png",
+    "Game Planning/Items/Items.canvas",
     "Game Planning/Items/List/Story Items",
     "Game Planning/Items/List/Consumables",
     "Game Planning/Items/List/Weapons",
     "Game Planning/Items/Items.base",
-    "Game Planning/Items/Items.canvas",
-    "Game Planning/Creatures/1/1.canvas",
     "Godot/multimedia-hsc---39176718/icon.svg",
     "README.md",
     "Godot/multimedia-hsc---39176718/Scenes/Entities/Player/PlayerCharacter.tscn625589010.tmp",
@@ -199,7 +201,6 @@
     "Godot/multimedia-hsc---39176718/project.godot617524235.tmp",
     "Godot/multimedia-hsc---39176718/project.godot614866406.tmp",
     "Godot/multimedia-hsc---39176718/Assets/Models",
-    "Godot/multimedia-hsc---39176718/Assets/Materials",
     "Game Planning/Locations/Map.canvas",
     "Game Planning/Creatures/2/2.canvas",
     "Game Planning/Creatures/3/3.canvas",
