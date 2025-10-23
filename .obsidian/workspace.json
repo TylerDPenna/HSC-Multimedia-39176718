@@ -15,9 +15,9 @@
               "state": {
                 "file": "Game Planning/Creatures/1/1.canvas",
                 "viewState": {
-                  "x": 318.8655198661813,
-                  "y": 40.246120438895076,
-                  "zoom": -0.16819102638912856
+                  "x": 295.9230679730355,
+                  "y": 42.50035491646167,
+                  "zoom": -0.26478505895157395
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -183,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6bc57e00f666073",
+  "active": "e2d53300d3c8056c",
   "lastOpenFiles": [
+    "Game Planning/Creatures/1/References/Quiet_Place_Death_Angel.png",
+    "Game Planning/Creatures/1/References/Unconfirmed 808235.crdownload",
     "Game Planning/Creatures/1/References/A Quiet Place (2018) - Death Angel.png",
     "Game Planning/Creatures/1/1.canvas",
     "Game Planning/Creatures/1/References/Pasted image 20251021095653.png",
@@ -200,7 +202,6 @@
     "Godot/multimedia-hsc---39176718/project.godot620395378.tmp",
     "Godot/multimedia-hsc---39176718/project.godot617524235.tmp",
     "Godot/multimedia-hsc---39176718/project.godot614866406.tmp",
-    "Godot/multimedia-hsc---39176718/Assets/Models",
     "Game Planning/Locations/Map.canvas",
     "Game Planning/Creatures/2/2.canvas",
     "Game Planning/Creatures/3/3.canvas",
