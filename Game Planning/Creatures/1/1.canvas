@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"2f932615c7470607","type":"group","x":-220,"y":-320,"width":1080,"height":760,"color":"3","label":"References"},
-		{"id":"6a0ff6ef90f750be","type":"file","file":"Game Planning/Creatures/1/References/A Quiet Place (2018) - Death Angel.png","x":-200,"y":-280,"width":400,"height":203}
+		{"id":"2f932615c7470607","type":"group","x":-220,"y":-320,"width":1080,"height":760,"color":"3","label":"References"}
 	],
 	"edges":[]
 }
