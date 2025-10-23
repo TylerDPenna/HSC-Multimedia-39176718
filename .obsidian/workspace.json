@@ -15,9 +15,9 @@
               "state": {
                 "file": "Game Planning/Creatures/1/1.canvas",
                 "viewState": {
-                  "x": 295.9230679730355,
-                  "y": 42.50035491646167,
-                  "zoom": -0.26478505895157395
+                  "x": 320,
+                  "y": -10,
+                  "zoom": -0.765375507281416
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -185,10 +185,11 @@
   },
   "active": "e2d53300d3c8056c",
   "lastOpenFiles": [
+    "Game Planning/Bibliography.md",
+    "Game Planning/Creatures/1/1.canvas",
     "Game Planning/Creatures/1/References/Quiet_Place_Death_Angel.png",
     "Game Planning/Creatures/1/References/Unconfirmed 808235.crdownload",
     "Game Planning/Creatures/1/References/A Quiet Place (2018) - Death Angel.png",
-    "Game Planning/Creatures/1/1.canvas",
     "Game Planning/Creatures/1/References/Pasted image 20251021095653.png",
     "Game Planning/Items/Items.canvas",
     "Game Planning/Items/List/Story Items",

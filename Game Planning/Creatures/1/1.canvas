@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"2f932615c7470607","type":"group","x":-220,"y":-320,"width":1080,"height":760,"color":"3","label":"References"},
-		{"id":"da73b57a186bb5cb","x":-200,"y":-300,"width":400,"height":299,"type":"file","file":"Game Planning/Creatures/1/References/Quiet_Place_Death_Angel.png"},
-		{"id":"884b29c976149d35","x":-200,"y":20,"width":400,"height":120,"type":"text","text":"Wikipedia Contributors (2025). _Death Angels (A Quiet Place)_. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Death_Angels_%28A_Quiet_Place%29 [Accessed 23 Oct. 2025]."}
+		{"id":"2f932615c7470607","type":"group","x":-220,"y":-460,"width":1080,"height":900,"color":"3","label":"References"},
+		{"id":"da73b57a186bb5cb","type":"file","file":"Game Planning/Creatures/1/References/Quiet_Place_Death_Angel.png","x":-200,"y":-420,"width":400,"height":299},
+		{"id":"884b29c976149d35","type":"text","text":"Wikipedia Contributors (2025). _Death Angels (A Quiet Place)_. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Death_Angels_%28A_Quiet_Place%29 [Accessed 23 Oct. 2025].","x":-200,"y":-80,"width":400,"height":120},
+		{"id":"437092311b1e1686","x":60,"y":-740,"width":400,"height":112,"type":"file","file":"Game Planning/Bibliography.md"}
 	],
 	"edges":[]
 }
